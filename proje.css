@@ -1,0 +1,61 @@
+body{background-color: wheat;
+	background-image: url("https://cdn.yeniakit.com.tr/images/news/625/pratik-degisik-yemek-tarifleri-en-sevilen-tarifler-h1581081558-3ff37b.jpg ");
+	background-size: cover;
+	background-position: center ;
+}
+
+#ana{
+	opacity: 90%;
+	background-color: #EEE6F0;
+	width: auto;
+	height: 650px;
+	margin-top: 30px;
+	margin-left: 23%;
+	margin-right: 23%;
+
+}
+
+
+
+#anayemek{
+	text-align: center;
+	font-size: 25px;
+
+
+
+}
+
+
+#yemekler{
+	background-color: #EEE6F0;
+	width: auto;
+	height: 495px;
+	margin-top: 50px;
+	margin-left: 105px;
+	margin-right: 105px;
+	margin-bottom: 30px;
+
+}
+
+#ert{
+	font-size: 30px;
+}
+
+
+.price{
+	font-size: 30px;
+	float: right;
+
+}
+
+
+
+
+
+
+#BASLIK{
+	font-size: 50px;
+    text-align: center;
+	color: black;
+
+}
